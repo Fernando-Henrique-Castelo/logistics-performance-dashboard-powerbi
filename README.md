@@ -20,7 +20,11 @@ O dashboard permite acompanhar:
 - Indicadores operacionais
 
 ---
+## 📊 Dashboard Preview
 
+![Logistics Dashboard](dashboard-overview.png)
+
+---
 ## 🛠 Ferramentas utilizadas
 
 - Power BI
